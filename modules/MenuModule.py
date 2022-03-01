@@ -129,7 +129,7 @@ def screen_shot():
 
 def screen_share():
     print("[*] Screen Share Started ")
-    subprocess.getoutput("scrcpy")
+    subprocess.getoutput("scrcpy -m 1080")
     Banner()
     print("[+] CLose Screen Share")
 
