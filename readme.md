@@ -52,7 +52,7 @@ All Command
 ## Install
 ```bash
 sudo apt install git
-sudo git clone https://github.com/Alireza-off/BLACK-ANDROID.git
+git clone https://github.com/Alireza-off/BLACK-ANDROID.git
 cd BLACK-ANDROID
 sudo bash setup.sh
 ```
