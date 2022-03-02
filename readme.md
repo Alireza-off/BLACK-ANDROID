@@ -65,6 +65,6 @@ python3 Black-Android.py
 ## ScreenShot
 ![killer](https://s6.uupload.ir/files/image_wm3n.png)
 
-### Thanks to
+### Thanks me
     Alireza Zare - designer and programmer
      
